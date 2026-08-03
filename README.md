@@ -1,8 +1,6 @@
 # Gokul R Nair
 
-FP&A and business finance. I build the analysis, not just the chart.
-
-MBA in Finance and Marketing, with three years handling books, GST and margin reporting for a retail business. I moved into analytics because accounting is backward looking and I wanted to work on the forward looking side: budgets, variance, forecasting, and the decisions that come out of them.
+Finance professional (MBA - Finance ) with hands-on experience spanning core accounting, financial reporting, and end-to-end financial analytics. Transitioning from historical record-keeping into forward-looking corporate finance: rolling forecasts, driver-based 3-statement models, OpEx budget variance, and decision-support modeling. I leverage **SQL Server, Power BI, Excel, and Python** to transform raw transactional data into actionable financial decision frameworks.
 
 Everything below I built end to end, from raw data through to a recommendation. Datasets are synthetic where real financials would be confidential, and each repo says so.
 
