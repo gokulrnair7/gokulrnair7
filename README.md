@@ -1,6 +1,6 @@
 # Gokul R Nair
 
-Finance professional (MBA - Finance ) with hands-on experience spanning core accounting, financial reporting, and end-to-end financial analytics. Transitioning from historical record-keeping into forward-looking corporate finance: rolling forecasts, driver-based 3-statement models, OpEx budget variance, and decision-support modeling. I leverage **SQL Server, Power BI, Excel, and Python** to transform raw transactional data into actionable financial decision frameworks.
+Finance professional (MBA - Finance ) with hands-on experience spanning core accounting, financial reporting, and end-to-end financial analytics. Transitioning from historical record-keeping into forward-looking corporate finance: rolling forecasts, driver-based 3-statement model, OpEx budget variance and decision-support modeling. I leverage **SQL Server, Power BI, Excel and Python** to transform raw transactional data into actionable financial decision frameworks.
 
 Everything below I built end to end, from raw data through to a recommendation. Datasets are synthetic where real financials would be confidential, and each repo says so.
 
